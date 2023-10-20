@@ -1,0 +1,18 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# All files
+[*]
+indent_style = space
+indent_size = 2
+
+# Set this to true if you want to use spaces instead of tabs
+# Use this only if your project enforces spaces over tabs
+# insert_final_newline = true
+
+# Ignore .editorconfig itself
+[**.editorconfig]
+indent_style = space
+indent_size = 2
